@@ -1,0 +1,12 @@
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: inherit;
+       -moz-box-sizing: inherit;
+            box-sizing: inherit;
+}
+
+span.sales-timer{
+    display: block;
+    overflow: hidden;
+}

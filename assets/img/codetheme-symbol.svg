@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="68px" height="64px" viewBox="0 0 68 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16044) - http://www.bohemiancoding.com/sketch -->
+    <title>codetheme symbol-final</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="codethemes-branding" sketch:type="MSArtboardGroup" transform="translate(-40.000000, -84.000000)">
+            <g id="codethemes" sketch:type="MSLayerGroup" transform="translate(40.000000, 84.000000)">
+                <g id="codetheme-symbol-final" transform="translate(34.000000, 32.500000) rotate(90.000000) translate(-34.000000, -32.500000) translate(2.000000, -1.000000)" sketch:type="MSShapeGroup">
+                    <g id="c" transform="translate(0.000000, 0.163170)">
+                        <path d="M22.1996946,0 L42.7896198,0 L9.68713947,46.144585 L0.807261623,29.3595535 L22.1996946,0 Z" id="Rectangle-1" fill="#0C96B1"></path>
+                        <path d="M11.879897,14.2084808 L23.0282259,27.2685504 L20.9651556,30.257601 L11.879897,14.2084808 Z" id="Rectangle-9" fill-opacity="0.295233243" fill="#1F1B1B"></path>
+                        <path d="M0.424900472,29.5405685 L11.7265632,14.2530251 L41.1703427,66.6890251 L20.7603319,66.4878239 L0.424900472,29.5405685 Z" id="Rectangle-1" fill="#2FD1F0"></path>
+                    </g>
+                    <g id="c" transform="translate(42.287385, 33.399399) scale(-1, -1) translate(-42.287385, -33.399399) translate(20.619673, -0.000000)">
+                        <path d="M21.7747941,-2.13386199e-14 L43.1672271,-2.13386199e-14 L10.0883934,46.1932833 L0.984242028,30.0118555 L21.7747941,-2.13386199e-14 Z" id="Rectangle-1" fill="#0C96B1"></path>
+                        <path d="M12.4817779,13.6155441 L23.3821867,27.4804185 L21.5670365,30.0670667 L12.4817779,13.6155441 Z" id="Rectangle-9" fill-opacity="0.295233243" fill="#1F1B1B"></path>
+                        <path d="M0.802507837,29.9292886 L12.3047975,13.6357393 L41.7485771,66.6753429 L21.3385662,66.6753429 L0.802507837,29.9292886 Z" id="Rectangle-1" fill="#2FD1F0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
